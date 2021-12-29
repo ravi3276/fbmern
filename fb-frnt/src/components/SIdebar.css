@@ -1,0 +1,13 @@
+.sidebar{
+    flex:0.3;
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+.sidebar::-webkit-scrollbar{
+    width:2px;
+}
+
+.sidebar::-webkit-scrollbar-thumb{
+    background-color: whitesmoke;
+}

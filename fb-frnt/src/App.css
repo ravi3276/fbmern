@@ -1,0 +1,7 @@
+.app{
+    /* max-height:100vh; */
+}
+.app__body{
+    padding-top: 50px;
+    display: flex;
+}

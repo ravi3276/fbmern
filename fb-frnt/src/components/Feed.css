@@ -1,0 +1,12 @@
+.feed{
+    flex: 0.4;
+    height: 100vh;
+    overflow-y: scroll;
+    background-color:#fff;
+    padding:1px;
+}
+
+
+.feed::-webkit-scrollbar{
+    display: none;
+}
